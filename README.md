@@ -244,3 +244,5 @@ If you use or refer to this code, please cite:
   year = {2026}
 }
 ```
+## Contact
+[ld.barta@alumni.maastrichtuniversity.nl](mailto:ld.barta@alumni.maastrichtuniversity.nl)
