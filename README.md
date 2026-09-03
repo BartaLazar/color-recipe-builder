@@ -38,6 +38,7 @@ The repository holds three approaches to that search:
 - [Workflow](#workflow)
 - [Dependencies](#dependencies)
 - [Citation](#citation)
+- [Contact](#contact)
 
 ---
 
